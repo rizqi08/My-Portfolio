@@ -1,0 +1,64 @@
+body {
+  font-family: Poppins, sans-serif;
+  background-color: #f9f7f7;
+}
+
+.bg-header,
+.card-exp,
+.card-certification {
+  background-color: #3f72af;
+}
+
+.navbar-collapse {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.navbar-brand {
+  color: #f9f7f7;
+  font-style: italic;
+}
+
+.nav-link,
+.card-exp,
+.card-certification {
+  color: #f9f7f7;
+}
+
+#home,
+#resume {
+  height: 100vh;
+}
+
+h1,
+.text-summary,
+.card-education,
+.card-core {
+  color: #3f72af;
+}
+
+.btn,
+.text-bg {
+  background-color: #112d4e;
+  color: #f9f7f7;
+}
+
+.bg-aboutme,
+.card-education,
+.card-core,
+.project-bg {
+  background-color: #dbe2ef;
+}
+
+.card-body {
+  height: 300px;
+}
+
+.btn-card {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 200px;
+}
